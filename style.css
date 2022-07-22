@@ -3,6 +3,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Noto Sans', sans-serif;
+    margin:0px;
 
 }
 
@@ -63,7 +64,7 @@ hr {
 .navigation {
     background-color: var(--primary-color);
     color: white;
-    padding: 0.8rem;
+    padding: 1rem;
     border-bottom-left-radius: 1rem;
 }
 
@@ -127,7 +128,7 @@ hr {
     padding:1rem;
     text-align:center;
     color:white;
-    
+    border-top-right-radius:1rem;
 }
 .footer ul{
     padding:0px;
